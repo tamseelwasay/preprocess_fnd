@@ -1,4 +1,4 @@
-from preprocess_kgptalkie import utils
+from preprocess_fnd import utils
 
 __version__ = '0.10.3'
 
